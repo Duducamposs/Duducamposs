@@ -1,4 +1,4 @@
-## 23 anos | Estudante de Desenvolvimento de Sistemas | Aprendizado contínuo.
+## Estudante de Desenvolvimento de Sistemas | Aprendizado contínuo.
 
 💻 Estudante de Desenvolvimento de Sistemas
 🌎 Estudando Inglês para oportunidades internacionais
