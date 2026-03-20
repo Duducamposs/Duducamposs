@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou Luiz Eduardo da Cunha Campos
+## 23 anos | Estudante de Desenvolvimento de Sistemas | Aprendizado contínuo.
 
 💻 Estudante de Desenvolvimento de Sistemas
 🌎 Estudando Inglês para oportunidades internacionais
@@ -32,8 +32,6 @@ Possuo conhecimentos básicos em HTML, CSS e Java, e estou sempre buscando evolu
 * Trabalhar com tecnologia em nível internacional
 
 ---
-
-<h2 align="center">23 anos | Estudante de Desenvolvimento de Sistemas | Aprendizado contínuo.</h2>
 
 ###
 
